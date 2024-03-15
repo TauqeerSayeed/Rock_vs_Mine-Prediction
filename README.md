@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/TauqeerSayeed/Rock_vs_Mine-Prediction/blob/main/rockvs%20mine%20colab%20screenshot.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/TauqeerSayeed/Rock_vs_Mine-Prediction/blob/main/rockvs%20mine%20colab%20screenshot.jpg" alt="project-screenshot" width="800" height="600/">
 
   
   
